@@ -1,6 +1,1 @@
-C:\Users\arpitga\Documents\visual studio 2015\Projects\ALM_POC\SampleProject\bin\Debug\SampleProject.exe.config
-C:\Users\arpitga\Documents\visual studio 2015\Projects\ALM_POC\SampleProject\bin\Debug\SampleProject.exe
-C:\Users\arpitga\Documents\visual studio 2015\Projects\ALM_POC\SampleProject\bin\Debug\SampleProject.pdb
-C:\Users\arpitga\Documents\visual studio 2015\Projects\ALM_POC\SampleProject\obj\Debug\SampleProject.csprojResolveAssemblyReference.cache
-C:\Users\arpitga\Documents\visual studio 2015\Projects\ALM_POC\SampleProject\obj\Debug\SampleProject.exe
-C:\Users\arpitga\Documents\visual studio 2015\Projects\ALM_POC\SampleProject\obj\Debug\SampleProject.pdb
+C:\Users\arpitga\Documents\Visual Studio 2015\Projects\ALM_POC\SampleProject\bin\Debug\SampleProject.exe.config
