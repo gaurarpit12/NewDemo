@@ -1,0 +1,9 @@
+C:\Users\arpitga\Documents\visual studio 2015\Projects\ALM_POC\SampleProject.Tests\bin\Debug\SampleProject.Tests.dll
+C:\Users\arpitga\Documents\visual studio 2015\Projects\ALM_POC\SampleProject.Tests\bin\Debug\SampleProject.Tests.pdb
+C:\Users\arpitga\Documents\visual studio 2015\Projects\ALM_POC\SampleProject.Tests\bin\Debug\nunit.framework.dll
+C:\Users\arpitga\Documents\visual studio 2015\Projects\ALM_POC\SampleProject.Tests\bin\Debug\SampleProject.exe
+C:\Users\arpitga\Documents\visual studio 2015\Projects\ALM_POC\SampleProject.Tests\bin\Debug\SampleProject.pdb
+C:\Users\arpitga\Documents\visual studio 2015\Projects\ALM_POC\SampleProject.Tests\bin\Debug\nunit.framework.xml
+C:\Users\arpitga\Documents\visual studio 2015\Projects\ALM_POC\SampleProject.Tests\obj\Debug\SampleProject.Tests.csprojResolveAssemblyReference.cache
+C:\Users\arpitga\Documents\visual studio 2015\Projects\ALM_POC\SampleProject.Tests\obj\Debug\SampleProject.Tests.dll
+C:\Users\arpitga\Documents\visual studio 2015\Projects\ALM_POC\SampleProject.Tests\obj\Debug\SampleProject.Tests.pdb
